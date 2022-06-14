@@ -2,7 +2,7 @@
 
 ## Sejam bem vindos!!! ;)
 <li>🧑🏻‍💻 Sou estudante do curso de [Análise e Desenvolvimento de Sistemas] </li>
-<li>🤓 Atualmente estou no 3º período </li>
+<li>🤓 Atualmente estou no 4º período </li>
 <li> Estudando bastante e aprendendo sempre!
 <div align="center">
   <a href="https://github.com/waldir-agra">
