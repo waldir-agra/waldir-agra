@@ -5,7 +5,7 @@
 <li>🤓 Atualmente estou no 5º período </li>
 
 <div align="center">
-  <a href="https://github.com/waldir-agra">
+  <a href="https://github.com/waldir-agra/Exercicios_Poo_Java_Faculdade">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=waldir-agra&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waldir-agra&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
