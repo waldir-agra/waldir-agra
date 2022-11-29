@@ -3,7 +3,7 @@
 ## Sejam bem vindos!!! ;)
 <li>🧑🏻‍💻 Sou estudante do curso de [Análise e Desenvolvimento de Sistemas] </li>
 <li>🤓 Atualmente estou no 5º período </li>
-<li> Estudando bastante e aprendendo sempre!
+
 <div align="center">
   <a href="https://github.com/waldir-agra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=waldir-agra&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
@@ -11,7 +11,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="waldir-agra-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- 
+  <img align="center" alt="waldir-agra-Js" height="30" width="40" src="https://https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
   <img align="center" alt="waldir-agra-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="waldir-agra-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
