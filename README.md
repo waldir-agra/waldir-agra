@@ -1,7 +1,18 @@
-## Olá! Eu sou o Waldir Agra 
+## Olá! Eu sou Waldir Agra 
 
 ## Sejam bem vindos!!! ;)
-<li>🧑🏻‍💻 Sou estudante do curso de [Análise e Desenvolvimento de Sistemas] </li>
+<li>🧑🏻‍💻 Sou um entusiasta de tecnologia e programação, buscando uma oportunidade de estágio para desenvolver minhas habilidades e contribuir de forma significativa em projetos de desenvolvimento de sistemas. Possuo um sólido conhecimento em linguagens de programação como Java, C e Python, e estou sempre disposto a aprender novas tecnologias e ferramentas.
+
+Habilidades-chave:
+Programação Orientada a Objetos: Experiência prática na criação e manutenção de sistemas baseados em conceitos de POO, garantindo uma arquitetura robusta e modular.
+Desenvolvimento Web: Familiaridade com HTML, CSS e JavaScript, incluindo frameworks como React.js e Angular, para criar interfaces de usuário dinâmicas e responsivas.
+Banco de Dados: Conhecimento em modelagem de dados e experiência em SQL para desenvolver consultas eficientes e manter a integridade dos dados.
+Resolução de Problemas: Capacidade de analisar e resolver problemas de forma eficiente, identificando as melhores soluções técnicas para desafios complexos.
+Trabalho em Equipe: Excelentes habilidades de comunicação e colaboração, capaz de trabalhar efetivamente em equipe para alcançar metas e objetivos comuns.
+Experiência Acadêmica:
+
+Graduando em Análise e Desenvolvimento de Sistema na Estácio de Sá, onde tenho explorado diversos conceitos teóricos e práticos em programação, algoritmos, estruturas de dados e engenharia de software.
+Estou animado com a oportunidade de aplicar meu conhecimento e habilidades em um ambiente profissional, contribuindo para o sucesso da equipe e adquirindo experiência prática em desenvolvimento de sistemas. Estou pronto para enfrentar novos desafios e aprender continuamente no decorrer deste estágio </li>
 <li>🤓 Atualmente estou no 5º período </li>
 
 <div align="center">
